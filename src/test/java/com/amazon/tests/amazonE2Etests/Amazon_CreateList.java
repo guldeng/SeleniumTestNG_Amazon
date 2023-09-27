@@ -25,8 +25,6 @@ public class Amazon_CreateList extends TestBase {
      * Verify that category  is selected
      * Write any product to search box and click
      * Verify that the product name is displayed on the result page
-     * <p>
-     * Project Name:EuroTech_SeleniumTestNG_Amazon  (proje ismini farklı belirleyebilirsiniz..)
      */
 
 
